@@ -21,7 +21,7 @@ See online help (```./vsbutil.py --help```)
     ./vsbutil.py setkeys shift+h e l l o comma space w o r l d shift+1
 
 ## Notes:
-Configuration changes made by the "setjoy" or "setkey" commands are applied in RAM and will not persist across a reset unless you explicitly call the "saveconfig" command afterward. However, the "setkeys" command causes the configuration to be saved immediately
+Configuration changes made by the "setjoy" or "setkey" commands are applied in RAM and will not persist across a reset unless you explicitly call the "saveconfig" command afterward. However, the "setkeys" command causes the configuration to be saved immediately.
 
 ## Author:
 Greg Courville <Greg_Courville@GregLabs.com>
