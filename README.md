@@ -22,3 +22,6 @@ See online help (```./vsbutil.py --help```)
 
 ## Notes:
 Configuration changes made by the "setjoy" or "setkey" commands are applied in RAM and will not persist across a reset unless you explicitly call the "saveconfig" command afterward. However, the "setkeys" command causes the configuration to be saved immediately
+
+## Author:
+Greg Courville <Greg_Courville@GregLabs.com>
