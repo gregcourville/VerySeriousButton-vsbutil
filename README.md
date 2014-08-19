@@ -12,8 +12,12 @@ This code was originally intended for testing and initial programming of Very Se
 See online help (```./vsbutil.py --help```)
 
 ## Examples:
-    ./vsbutil.py setjoy; ./vsbutil.py saveconfig
-    ./vsbutil.py setkey ctrl+c; ./vsbutil.py saveconfig
+    ./vsbutil.py setjoy
+    ./vsbutil.py saveconfig
+
+    ./vsbutil.py setkey ctrl+c;
+    ./vsbutil.py saveconfig
+
     ./vsbutil.py setkeys shift+h e l l o comma space w o r l d shift+1
 
 ## Notes:
