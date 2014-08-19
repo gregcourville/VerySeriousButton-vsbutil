@@ -15,7 +15,7 @@ See online help (```./vsbutil.py --help```)
     ./vsbutil.py setjoy
     ./vsbutil.py saveconfig
 
-    ./vsbutil.py setkey ctrl+c;
+    ./vsbutil.py setkey ctrl+c
     ./vsbutil.py saveconfig
 
     ./vsbutil.py setkeys shift+h e l l o comma space w o r l d shift+1
