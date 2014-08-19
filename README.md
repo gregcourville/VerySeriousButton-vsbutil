@@ -2,7 +2,7 @@ VerySeriousButton-vsbutil
 =========================
 
 "Service utility" for the Very Serious Button.
-This code was originally intended for testing and initial programming of Very Serious Buttons during production. It is being provided as a tool for advanced users and a reference for those wishing to learn how the configuration interface works. No warranty is provided. Use at your own risk.
+This code was originally intended for testing and initial programming of Very Serious Buttons during production. It is being provided as a tool for advanced users and a reference to demonstrate how the configuration interface works. No warranty is provided. Use at your own risk.
 
 ## Requires:
 * Reasonably recent Windows, Linux or Mac OS X
